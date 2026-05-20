@@ -142,11 +142,10 @@ function App() {
                 Final year project for tracking daily productivity and habits.
               </p>
               <img src="/images/life-Receipt-one.png" className="d-block w-100 project-img"/>
-              <p>
-                <i>Deployment in progress...</i>
-              </p>
               <div className="mt-auto">
-                <a href="#" target="_blank">GitHub</a>
+                 <a href="https://life-receipt-backend.onrender.com/" target="_blank"> Live Demo</a>
+                 <br />
+                 <a href="https://github.com/siddhiii07/Life-Receipt" target="_blank" > GitHub</a>
               </div>
             </div>
           </div>
