@@ -52,7 +52,7 @@ function App() {
         <p>
           I am an IT Engineering student passionate about frontend development.
           I have experience in building full-stack applications using MERN stack
-          and currently improving my skills in Python and SQL.
+          and currently improving my skills in SQL and Jquery.
         </p>
       </div>
 
